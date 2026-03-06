@@ -119,3 +119,6 @@ Ranking logic implementation
 Dashboard structuring
 
 Using Excel as a business intelligence tool
+
+👤 Author
+Adarsh Kumar Data Analyst | SQL | Excel | Power BI | Data Cleaning & Transformation
